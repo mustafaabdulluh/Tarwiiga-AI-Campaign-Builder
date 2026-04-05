@@ -1,4 +1,4 @@
-# AI-Powered Campaign Builder for Google Ads
+# AI-Powered Campaign Builder For Google Ads
 
 Developed an end-to-end AI automation platform that compresses the Google Ads campaign creation workflow from ~3 days to under 60 seconds. I engineered the full-stack architecture and AI orchestration layer to transform a website or landing page into structured, ready-to-launch marketing campaigns.
 
